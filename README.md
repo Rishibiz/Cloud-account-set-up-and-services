@@ -273,19 +273,14 @@ Azure Files delivers fully managed, cloud-based file shares accessible via SMB a
 
 •	Secure and scalable collaboration.
 
+## *Output*
+Snapshot 1: Azure portal login page.
+<img width="1918" height="1030" alt="image" src="https://github.com/user-attachments/assets/8f6599fa-176f-45aa-ac43-26350758dda4" />
+
+Snapshot 2: Services in Azure
+<img width="1916" height="1039" alt="image" src="https://github.com/user-attachments/assets/44731bfe-010a-4ab7-acbd-1869ed8670ce" />
 
 
 
-
-            Snapshot 1: Azure portal login page.
-
-![WhatsApp Image 2025-09-15 at 13 34 12_e41d8243](https://github.com/user-attachments/assets/10f278df-d03c-4f58-876d-6f9cba609f03)
-
-
-
-             Snapshot 2: Services in Azure
-![WhatsApp Image 2025-09-15 at 13 34 12_02acddf4](https://github.com/user-attachments/assets/42f9b851-6a0c-4049-8b9a-b0db6858b18c)
-
-
-*Result:*
+## *Result:*
 Thus, a cloud account was successfully created in Microsoft Azure, and various services such as  Compute, IoT, and Storage were explored.
