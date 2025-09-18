@@ -1,7 +1,7 @@
 # *Ex.1 Cloud Account Setup and Services Overview in Microsoft Azure*
 
-### NAME: Prasanna R
-### REG.NO: 212222040120
+### NAME: Rishi chandran R
+### REG.NO: 212223043005
 
 ## *Aim:*
 To create a cloud account in Microsoft Azure and to explore its services such as Compute, IoT, and Security.
@@ -275,11 +275,11 @@ Azure Files delivers fully managed, cloud-based file shares accessible via SMB a
 
 ## *Output*
 Snapshot 1: Azure portal login page.
-<img width="1918" height="1030" alt="image" src="https://github.com/user-attachments/assets/8f6599fa-176f-45aa-ac43-26350758dda4" />
+<img width="1919" height="1079" alt="Screenshot 2025-09-18 110150" src="https://github.com/user-attachments/assets/644bcb60-d238-4a7d-88d5-06e5c72a3d8b" />
+
 
 Snapshot 2: Services in Azure
-<img width="1916" height="1039" alt="image" src="https://github.com/user-attachments/assets/44731bfe-010a-4ab7-acbd-1869ed8670ce" />
-
+<img width="1919" height="1079" alt="Screenshot 2025-09-18 110205" src="https://github.com/user-attachments/assets/d4446028-7517-4fbe-8ece-49553536e926" />
 
 
 ## *Result:*
