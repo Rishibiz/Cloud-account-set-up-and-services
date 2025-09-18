@@ -1,4 +1,4 @@
-# *Ex.1 Cloud Account Setup and Services Overview in Microsoft Azure*
+# Ex.1 Cloud Account Setup and Services Overview in Microsoft Azure
 
 ### NAME: Rishi chandran R
 ### REG.NO: 212223043005
